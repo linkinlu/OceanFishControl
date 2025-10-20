@@ -1,0 +1,6 @@
+@OceanFishControl.Api_HostAddress = http://localhost:5286
+
+GET {{OceanFishControl.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
